@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cocktail App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tittle">Let\'s Drink\n Cocktail</string>
+    <string name="details_cocktail">Details cocktail</string>
+    <string name="drink_name">Drink name:</string>
+    <string name="tags">Tags:</string>
+    <string name="iba">IBA:</string>
+    <string name="alcoholic">Alcoholic:</string>
+    <string name="glass">Glass:</string>
+    <string name="instructions">Instructions:</string>
+    <string name="instructions_de">Instructions DE:</string>
+    <string name="instructions_it">Instructions IT:</string>
+    <string name="ingredient">Ingredient:</string>
+    <string name="measure">Measure:</string>
+    <string name="creative_commons_confirmed">Creative Commons Confirmed:</string>
+    <string name="date_modified">Date Modified:</string>
+</resources>
